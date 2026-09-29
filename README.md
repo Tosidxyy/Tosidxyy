@@ -156,135 +156,98 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 ## 🧰 My Toolkit
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td align="center" valign="top" width="25%">
+### 💻 Coding
 
-<b>💻 Coding</b>
+<img src="https://skillicons.dev/icons?i=python" height="48" />
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python" height="46" />
+<br>
+<b>Python</b>
 
 <br>
 
-<sub>Python</sub>
-
-</td>
-
-
-<td align="center" valign="top" width="35%">
-
-<b>🗄️ Data & Infra</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="44" />
-
-<br>
-
-<sub>PostgreSQL · MySQL · Docker</sub>
-
-</td>
-
-
-<td align="center" valign="top" width="40%">
-
-<b>🛠️ Development</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="44" />
-
-<br>
-
-<sub>Git · GitHub · VS Code · PyCharm</sub>
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
 <i>
 With AI-assisted development, programming languages are becoming less of a barrier —
 what matters more to me is understanding the problem and building the solution.
 </i>
-</p>
 
-<h3 align="center">🤖 AI Tools</h3>
+<br>
 
-<table width="100%">
+### 🗄️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="44" />
+
+<br>
+<sub>PostgreSQL · MySQL · Docker</sub>
+
+<br>
+
+### 🛠️ Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="44" />
+
+<br>
+<sub>Git · GitHub · VS Code · PyCharm</sub>
+
+<br>
+
+### 🤖 AI Tools
+
+<table>
 <tr>
 
-<td align="center" valign="middle" width="33%">
-
+<td align="center" width="160">
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
   width="52"
   height="52"
 />
-
 <br>
-
 <b>ChatGPT</b>
-
 <br>
-
 <sub>Daily Driver ❤️</sub>
-
 </td>
 
-
-<td align="center" valign="middle" width="33%">
-
+<td align="center" width="160">
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
   width="52"
   height="52"
 />
-
 <br>
-
 <b>DeepSeek</b>
-
 <br>
-
 <sub>AI Assistant</sub>
-
 </td>
 
-
-<td align="center" valign="middle" width="34%">
-
+<td align="center" width="160">
 <img
   src="assets/doubao.png"
   width="52"
   height="52"
   alt="Doubao"
 />
-
 <br>
-
 <b>Doubao</b>
-
 <br>
-
 <sub>AI Assistant</sub>
-
 </td>
 
 </tr>
 </table>
 
-<p align="center">
 <b>❤️ Team GPT</b>
+
 <br>
+
 <i>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</i>
+
 <br>
+
 <sub>Sorry Claude, nothing personal.</sub>
-</p>
+
+</div>
 
 > Python is my main programming language. I use AI-assisted development to explore unfamiliar technologies, work across different stacks, learn faster, and turn ideas into working products.
 ---
