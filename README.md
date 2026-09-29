@@ -4,28 +4,32 @@
 
 <br>
 
-🎓 Master's Student in Computer Science  
-**China University of Geosciences (Wuhan)**
+### Yuyang Xia
 
-<br><br>
+**🎓 中国地质大学（武汉）｜计算机科学硕士研究生**  
+**🐍 Python · 🤖 AI Agents · 🛠️ AI-assisted Development**
 
-<a href="mailto:xyy695627012@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://x.com/xiyyng44054657">
-  <img src="https://img.shields.io/badge/X-@xiyyng44054657-000000?style=flat-square&logo=x&logoColor=white" />
-</a>
+<br>
 
 <a href="https://github.com/Tosidxyy">
   <img src="https://img.shields.io/badge/GitHub-Tosidxyy-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+<a href="https://x.com/xiyyng44054657">
+  <img src="https://img.shields.io/badge/X-@xiyyng44054657-181717?style=flat-square&logo=x&logoColor=white" />
+</a>
+<a href="mailto:xyy695627012@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<i>Turning ideas into working products with Python and AI.</i>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
 I'm a second-year Master's student in Computer Science at **China University of Geosciences (Wuhan)**.
 
