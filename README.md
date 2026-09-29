@@ -7,11 +7,9 @@
   alt="Typing SVG"
 />
 
-<br>
-
 <i>Truth of Soul, In Dreams.</i>
 
-<br><br>
+<br>
 
 🎓 Master's Student in Computer Science  
 **China University of Geosciences (Wuhan)**
@@ -21,11 +19,9 @@
 <a href="mailto:xyy695627012@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://x.com/xiyyng44054657">
   <img src="https://img.shields.io/badge/X-@xiyyng44054657-181717?style=flat-square&logo=x&logoColor=white" />
 </a>
-
 <a href="https://github.com/Tosidxyy">
   <img src="https://img.shields.io/badge/GitHub-Tosidxyy-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
