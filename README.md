@@ -123,6 +123,28 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 
 ---
 
+## 🤖 My AI Toolbox
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-Daily_Driver-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DeepSeek-AI_Assistant-4D6BFE?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Doubao-AI_Assistant-2F88FF?style=for-the-badge" />
+
+<br><br>
+
+**ChatGPT · DeepSeek · Doubao**
+
+<br>
+
+> GPT is my daily driver — definitely **Team GPT**, not Team Claude 🤪
+
+</div>
+
+---
+
 ## 🔭 Currently Exploring
 
 <div align="center">
