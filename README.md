@@ -134,38 +134,37 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 <div align="center">
 
-### Main Language
+### 💻 Coding
 
-<img src="https://skillicons.dev/icons?i=python" height="54" />
-
-<br><br>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=python" height="52" />
 
 <br>
 
-> Python is my main programming language. I also use AI-assisted development tools to explore technologies beyond my current core stack and turn ideas into working prototypes.
+<b>Python</b>
 
----
+<br><br>
 
-## 🤖 My AI Toolbox
+### 🛠️ Development
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+
+<br><br>
+
+<sub>Git · GitHub · VS Code</sub>
+
+<br><br>
+
+### 🤖 AI Tools
 
 <table>
-
 <tr>
 
 <td align="center" width="180">
 
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-  width="62"
-  height="62"
+  width="58"
+  height="58"
 />
 
 <br><br>
@@ -182,8 +181,8 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
-  width="62"
-  height="62"
+  width="58"
+  height="58"
 />
 
 <br><br>
@@ -200,8 +199,8 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 <img
   src="assets/doubao.png"
-  width="62"
-  height="62"
+  width="58"
+  height="58"
   alt="Doubao"
 />
 
@@ -216,10 +215,25 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 </td>
 
 </tr>
-
 </table>
 
 <br>
+
+<b>❤️ Team GPT</b>
+
+<br><br>
+
+<i>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</i>
+
+<br>
+
+<sub>Sorry Claude, nothing personal.</sub>
+
+</div>
+
+<br>
+
+> Python is my main programming language. I use AI-assisted development tools to explore unfamiliar technologies, learn faster, and turn ideas into working products.
 
 ### ❤️ Team GPT
 
