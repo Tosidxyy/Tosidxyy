@@ -6,8 +6,8 @@
 
 ### Yuyang Xia
 
-**🎓 中国地质大学（武汉）｜计算机科学硕士研究生**  
-**🐍 Python · 🤖 AI Agents · 🛠️ AI-assisted Development**
+🎓 **中国地质大学（武汉）｜计算机科学硕士研究生**  
+🐍 **Python · AI Agents · AI-assisted Development**
 
 <br>
 
@@ -29,28 +29,28 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 关于我
 
-I'm a second-year Master's student in Computer Science at **China University of Geosciences (Wuhan)**.
+我是 **中国地质大学（武汉）** 计算机科学专业的二年级硕士研究生。
 
-I mainly work with **Python** and I'm interested in **AI Agents, LLM applications, and AI-assisted software development**.
+我主要使用 **Python** 进行开发，对 **AI Agents、LLM 应用** 和 **AI 辅助软件开发** 很感兴趣。
 
-I enjoy turning ideas into working products — even when that means learning new technologies along the way.
+我喜欢把想法逐渐变成真正可以使用的产品，也愿意在这个过程中不断学习新的技术和工具。
 
-- 🐍 Mainly coding in **Python**
-- 🤖 Exploring **AI Agents & LLM Applications**
-- 🛠️ Building practical tools with **AI-assisted development**
-- 🌱 Learning software engineering through real projects
-- 💡 Interested in turning interesting ideas into usable products
+- 🐍 主要使用 **Python**
+- 🤖 探索 **AI Agents 与 LLM 应用**
+- 🛠️ 使用 AI 辅助开发构建实际项目
+- 🌱 通过真实项目学习软件工程
+- 💡 喜欢把有趣的想法转化成可用产品
 - 💜 Proud **ARMY**
-- 🐰 The pink bunny in my profile picture is **COOKY** from BT21 — Jung Kook's character.
+- 🐰 我的粉色兔子头像是 BT21 的 **COOKY**
 
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-🚧 Both projects are actively maintained and still evolving.
+🚧 两个项目目前都在持续维护和开发中。
 </p>
 
 <table>
@@ -65,20 +65,20 @@ I enjoy turning ideas into working products — even when that means learning ne
 </p>
 
 <p align="center">
-An experimental AI-powered investment analysis and portfolio management platform.
+一个正在开发中的 AI 投资分析与个人持仓管理平台。
 </p>
 
 <b>Current Focus</b>
 
 <br><br>
 
-🤖 AI Agent workflows  
-💼 Portfolio management  
-📊 Market data integration  
-📰 News & sentiment analysis  
-⚡ System performance optimization  
+🤖 AI Agent 工作流  
+💼 个人持仓与资产管理  
+📊 市场数据整合  
+📰 新闻与情绪分析  
+⚡ 并发、缓存与性能优化  
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="https://github.com/Tosidxyy/StockPilot">
@@ -97,20 +97,20 @@ An experimental AI-powered investment analysis and portfolio management platform
 </p>
 
 <p align="center">
-A personal coding review and note-taking tool designed to make LeetCode practice more organized and effective.
+一个用于 LeetCode 错题整理、笔记记录与复习的个人学习工具。
 </p>
 
 <b>Features</b>
 
 <br><br>
 
-📝 Problem notes  
-🔁 Mistake & review management  
-🖼️ Image support  
-🧩 Browser extension integration  
-💾 Local-first workflow  
+📝 题目笔记  
+🔁 错题与复习管理  
+🖼️ 图片与富文本记录  
+🧩 浏览器插件集成  
+💾 Local-first 工作流  
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="https://github.com/Tosidxyy/CodeVault">
@@ -131,7 +131,7 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 ### Main Language
 
-<img src="https://skillicons.dev/icons?i=python" height="52" />
+<img src="https://skillicons.dev/icons?i=python" height="54" />
 
 <br><br>
 
@@ -143,7 +143,7 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 <br>
 
-> I use AI-assisted development tools to explore technologies beyond my current core stack and turn ideas into working prototypes.
+> 我的核心编程语言是 Python，同时会借助 AI 辅助开发工具探索目前还不熟悉的技术，并将想法快速转化成可运行的原型。
 
 ---
 
@@ -158,8 +158,8 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-  width="60"
-  height="60"
+  width="62"
+  height="62"
 />
 
 <br><br>
@@ -176,8 +176,8 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
-  width="60"
-  height="60"
+  width="62"
+  height="62"
 />
 
 <br><br>
@@ -194,8 +194,8 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 <img
   src="assets/doubao.png"
-  width="60"
-  height="60"
+  width="62"
+  height="62"
   alt="Doubao"
 />
 
@@ -216,7 +216,9 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 ### ❤️ Team GPT
 
-**ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪**
+<b>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</b>
+
+<br>
 
 <sub>Sorry Claude, nothing personal.</sub>
 
@@ -228,9 +230,9 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-181717?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Applications-8B5CF6?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
@@ -238,30 +240,32 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 <br>
 
-I'm currently learning more about:
+目前主要在继续学习和探索：
 
-- 🤖 AI Agent architectures
-- 🧠 LLM applications & evaluation
-- 🗂️ Context engineering
-- ⚙️ Backend development
-- ⚡ System performance optimization
-- 📈 Financial AI applications
+- 🤖 AI Agent 架构与工作流
+- 🧠 LLM 应用与评估
+- 🗂️ Context Engineering
+- ⚙️ Backend Development
+- ⚡ 系统性能与工程优化
+- 📈 AI 在金融场景中的应用
 
 ---
 
-## 💜 A Little More About Me
+## 💜 Beyond Code
 
 <div align="center">
 
-### 🐰 ARMY & COOKY
+### 🐰 COOKY · BTS · ARMY
 
-My pink bunny avatar is **COOKY**, a BT21 character created by **Jung Kook**.
+我的 GitHub 头像是一只粉色兔子，它是 BT21 中由 **Jung Kook** 创作的角色：
 
-I'm also a proud **ARMY** 💜
+### **COOKY**
+
+同时，我也是一名 **ARMY** 💜
 
 <br>
 
-<sub>Code, AI, music, and a pink bunny.</sub>
+<i>Code, AI, music, and a pink bunny.</i>
 
 </div>
 
@@ -276,7 +280,7 @@ I'm also a proud **ARMY** 💜
 </a>
 
 <a href="https://x.com/xiyyng44054657">
-  <img src="https://img.shields.io/badge/X-@xiyyng44054657-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-@xiyyng44054657-181717?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br><br>
@@ -287,7 +291,7 @@ I'm also a proud **ARMY** 💜
 
 <br><br>
 
-**Feel free to reach out — I'm always happy to connect and exchange ideas.**
+<b>Feel free to reach out — I'm always happy to connect and exchange ideas.</b>
 
 </div>
 
