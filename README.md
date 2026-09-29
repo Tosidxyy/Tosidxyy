@@ -123,23 +123,47 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 
 ---
 
-## 🤖 My AI Toolbox
+🤖 My AI Toolbox
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-Daily_Driver-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/DeepSeek-AI_Assistant-4D6BFE?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Doubao-AI_Assistant-2F88FF?style=for-the-badge" />
-
+<td align="center" width="150">
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="55" height="55" />
 <br><br>
+<b>ChatGPT</b>
+<br>
+<sub>Daily Driver</sub>
+</td>
 
-**ChatGPT · DeepSeek · Doubao**
+<td align="center" width="150">
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="55" height="55" />
+<br><br>
+<b>DeepSeek</b>
+<br>
+<sub>AI Assistant</sub>
+</td>
+
+<td align="center" width="150">
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/doubao-color.svg" width="55" height="55" />
+<br><br>
+<b>Doubao</b>
+<br>
+<sub>AI Assistant</sub>
+</td>
+
+</tr>
+</table>
 
 <br>
 
-> GPT is my daily driver — definitely **Team GPT**, not Team Claude 🤪
+❤️ Team GPT
+
+ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪
+
+<sub>Sorry Claude, nothing personal.</sub>
 
 </div>
 
