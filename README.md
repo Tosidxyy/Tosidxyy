@@ -55,77 +55,101 @@ I enjoy turning ideas into working products — even when that means learning ne
 </p>
 
 <table>
+  
+<!-- Project Titles -->
 <tr>
+<td width="50%" align="center">
+<h3>📈 StockPilot</h3>
+</td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
+<h3>🧩 CodeVault</h3>
+</td>
+</tr>
 
-<h3 align="center">📈 StockPilot</h3>
-
-<p align="center">
+<!-- Status -->
+<tr>
+<td align="center">
 <img src="https://img.shields.io/badge/Status-Active_Development-2EA44F?style=flat-square" />
-</p>
+</td>
 
-<p align="center">
+<td align="center">
+<img src="https://img.shields.io/badge/Status-Active_Development-2EA44F?style=flat-square" />
+</td>
+</tr>
+
+<!-- Description -->
+<tr>
+<td align="center" valign="top">
+<p>
 An AI-powered investment analysis and personal portfolio management platform.
 </p>
+</td>
 
+<td align="center" valign="top">
+<p>
+A personal LeetCode review and note-taking tool designed to make coding practice more organized and effective.
+</p>
+</td>
+</tr>
+
+<!-- Section Headings -->
+<tr>
+<td valign="top">
 <b>Current Focus</b>
+</td>
 
-<br><br>
+<td valign="top">
+<b>Features</b>
+</td>
+</tr>
 
-🤖 AI Agent workflows  
-💼 Portfolio management  
-📊 Market data integration  
-📰 News & sentiment analysis  
-⚡ Concurrency, caching & performance optimization  
+<!-- Project Details -->
+<tr>
+<td valign="top">
 
-<br><br>
+<p>
+🤖 AI Agent workflows<br>
+💼 Portfolio management<br>
+📊 Market data integration<br>
+📰 News & sentiment analysis<br>
+⚡ Concurrency, caching & performance optimization
+</p>
 
-<p align="center">
+</td>
+
+<td valign="top">
+
+<p>
+📝 Problem notes<br>
+🔁 Mistake & review management<br>
+🖼️ Image and rich-note support<br>
+🧩 Browser extension integration<br>
+💾 Local-first workflow
+</p>
+
+</td>
+</tr>
+
+<!-- Repository Buttons -->
+<tr>
+<td align="center">
 
 <a href="https://github.com/Tosidxyy/StockPilot">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
-
 </td>
 
-<td width="50%" valign="top">
-
-<h3 align="center">🧩 CodeVault</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active_Development-2EA44F?style=flat-square" />
-</p>
-
-<p align="center">
-A personal LeetCode review and note-taking tool designed to make coding practice more organized and effective.
-</p>
-
-<b>Features</b>
-
-<br><br>
-
-📝 Problem notes  
-🔁 Mistake & review management  
-🖼️ Image and rich-note support  
-🧩 Browser extension integration  
-💾 Local-first workflow  
-
-<br><br>
-
-<p align="center">
+<td align="center">
 
 <a href="https://github.com/Tosidxyy/CodeVault">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
-
 </td>
-
 </tr>
+
 </table>
 
 ---
