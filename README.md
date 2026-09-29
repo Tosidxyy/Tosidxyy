@@ -169,7 +169,7 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 
 <td align="center" width="180">
 
-<img src="./assets/doubao.png" width="58" height="58" />
+<img src="https://raw.githubusercontent.com/Tosidxyy/Tosidxyy/main/assets/doubao.png" width="58" height="58" />
 
 <br><br>
 
