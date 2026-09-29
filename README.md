@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yuyang 👋
+# Hi, I'm Tosid 👋
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+AI+Agents+%7C+Building+with+AI;Turning+ideas+into+working+products;Still+learning.+Still+building."
@@ -8,6 +8,10 @@
 />
 
 <br>
+
+<i>Truth of Soul, In Dreams.</i>
+
+<br><br>
 
 🎓 Master's Student in Computer Science  
 **China University of Geosciences (Wuhan)**
