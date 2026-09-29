@@ -147,11 +147,11 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 </td>
 
 <td align="center" width="150">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/doubao-color.svg" width="55" height="55" />
-<br><br>
-<b>Doubao</b>
-<br>
-<sub>AI Assistant</sub>
+  <img src="./assets/doubao.png" width="60" height="60" />
+  <br><br>
+  <b>Doubao</b>
+  <br>
+  <sub>AI Assistant</sub>
 </td>
 
 </tr>
