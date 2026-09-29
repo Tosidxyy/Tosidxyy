@@ -44,7 +44,7 @@ I enjoy turning ideas into working products — even when that means learning ne
 - 🌱 Learning software engineering through real-world projects
 - 💡 Interested in turning interesting ideas into usable products
 - 💜 Proud **ARMY**
-- 🐰 My pink bunny avatar is **COOKY** from BT21
+- 🐰 My pink bunny avatar is **COOKY** — Jung Kook's BT21 character.
 
 ---
 
