@@ -156,16 +156,16 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 ## 🧰 My Toolkit
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" valign="top" width="25%">
 
 <b>💻 Coding</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python" height="44" />
+<img src="https://skillicons.dev/icons?i=python" height="46" />
 
 <br>
 
@@ -173,13 +173,14 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 </td>
 
-<td align="center" width="33%">
 
-<b>🗄️ Databases & Infrastructure</b>
+<td align="center" valign="top" width="35%">
+
+<b>🗄️ Data & Infra</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="42" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="44" />
 
 <br>
 
@@ -187,13 +188,14 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 </td>
 
-<td align="center" width="33%">
+
+<td align="center" valign="top" width="40%">
 
 <b>🛠️ Development</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="42" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="44" />
 
 <br>
 
@@ -211,19 +213,17 @@ what matters more to me is understanding the problem and building the solution.
 </i>
 </p>
 
-<p align="center">
-<b>🤖 AI Tools</b>
-</p>
+<h3 align="center">🤖 AI Tools</h3>
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" valign="middle" width="33%">
 
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-  width="48"
-  height="48"
+  width="52"
+  height="52"
 />
 
 <br>
@@ -236,12 +236,13 @@ what matters more to me is understanding the problem and building the solution.
 
 </td>
 
-<td align="center" width="33%">
+
+<td align="center" valign="middle" width="33%">
 
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
-  width="48"
-  height="48"
+  width="52"
+  height="52"
 />
 
 <br>
@@ -254,12 +255,13 @@ what matters more to me is understanding the problem and building the solution.
 
 </td>
 
-<td align="center" width="33%">
+
+<td align="center" valign="middle" width="34%">
 
 <img
   src="assets/doubao.png"
-  width="48"
-  height="48"
+  width="52"
+  height="52"
   alt="Doubao"
 />
 
@@ -277,8 +279,10 @@ what matters more to me is understanding the problem and building the solution.
 </table>
 
 <p align="center">
-<b>❤️ Team GPT</b><br>
-<i>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</i><br>
+<b>❤️ Team GPT</b>
+<br>
+<i>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</i>
+<br>
 <sub>Sorry Claude, nothing personal.</sub>
 </p>
 
