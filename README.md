@@ -1,84 +1,68 @@
 # Hi, I'm Yuyang 👋
 
-I'm interested in building practical AI systems and developer tools.
+I'm a Python developer interested in building practical AI-powered tools and applications.
 
-Currently focusing on:
-
-- 🤖 AI Agents & LLM Applications
-- 📈 AI-powered Investment & Portfolio Systems
-- 🧩 Full-stack Development
-- 🛠️ Developer Tools & Productivity
-- 🧠 Machine Learning & Deep Learning
+I enjoy turning ideas into working prototypes with the help of modern AI coding tools.
 
 ## 🚀 What I'm Building
 
 ### 📈 AI Investment System
-An AI-powered investment analysis platform that combines market information, portfolio management, and intelligent agents.
+An AI-powered investment analysis and portfolio management platform.
 
 Current directions include:
 
 - Portfolio tracking and performance analysis
 - Market data integration
-- AI-assisted investment analysis
+- AI-assisted analysis
 - Agent-based workflows
 - Sentiment and news analysis
-- System performance optimization with caching and concurrency
+- Performance optimization
 
 ### 🧩 LeetCode Review Tool
-A local learning and review system designed to make coding practice more organized and effective.
+A local learning and review tool designed to improve long-term coding practice.
 
 Features include:
 
-- LeetCode problem collection
-- Mistake and review management
-- Rich-text notes with images
+- Problem collection and review
+- Mistake management
+- Personal notes
+- Image support
 - Browser extension integration
-- Local-first data management
-- Personal coding knowledge base
+- Local-first workflow
 
 ## 🧰 Tech Stack
 
-**Languages**
+**Main Language**
 
-`Python` `JavaScript` `TypeScript` `C++`
+`Python`
 
-**AI & Machine Learning**
+**Currently Exploring**
 
-`PyTorch` `LLM` `AI Agents` `RAG`
+`AI Agents` `LLM Applications` `FastAPI` `Web Development` `Automation`
 
-**Backend**
+**Development Workflow**
 
-`FastAPI` `REST API` `Redis` `PostgreSQL`
-
-**Frontend**
-
-`React` `TypeScript` `HTML` `CSS`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `VS Code` `Codex`
+`Git` `GitHub` `VS Code` `Codex` `AI-assisted Development`
 
 ## 🌱 Currently Learning
 
-I'm currently exploring:
+I'm currently learning more about:
 
-- Reliable AI Agent architectures
-- LLM evaluation and observability
+- AI Agent architectures
+- LLM applications
 - Context engineering
-- AI-native software development
-- Quantitative and financial AI applications
-- Scalable full-stack system design
+- Backend development
+- System performance optimization
+- Financial AI applications
+- Building software with AI-assisted workflows
 
 ## 📌 Featured Projects
 
 ### AI Investment Platform
-Building an intelligent investment research and portfolio management system powered by AI agents.
+An experimental AI-powered platform for investment analysis, portfolio tracking, and intelligent agent workflows.
 
 ### LeetCode Review
-A browser-extension-based coding review and note-taking system for improving long-term problem-solving skills.
-
-### More coming soon...
-I'm continuously building and experimenting with new AI applications and developer tools.
+A personal coding review and note-taking tool built to make LeetCode practice more organized and effective.
 
 ## 📫 Connect
 
@@ -86,4 +70,4 @@ I'm continuously building and experimenting with new AI applications and develop
 
 ---
 
-> Building useful things with AI.
+> Building useful things with Python and AI.
