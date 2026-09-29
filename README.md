@@ -1,18 +1,13 @@
 <div align="center">
 
-# Hi, I'm Yuyang 👋
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+AI+Agents+%7C+Building+with+AI;Turning+ideas+into+working+products;Still+learning.+Still+building."
-  alt="Typing SVG"
-/>
+<img src="assets/banner.svg" width="100%" alt="Yuyang Banner" />
 
 <br>
 
 🎓 Master's Student in Computer Science  
 **China University of Geosciences (Wuhan)**
 
-<br>
+<br><br>
 
 <a href="mailto:xyy695627012@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
