@@ -286,13 +286,19 @@ I'm currently exploring:
 
 <div align="center">
 
-### 🐰 COOKY · BTS · ARMY
-
-My pink bunny avatar is **COOKY**, a BT21 character created by **Jung Kook**.
-
-I'm also a proud **ARMY** 💜
+<img
+  src="https://github.com/Tosidxyy.png"
+  width="90"
+  alt="Tosid's avatar"
+/>
 
 <br>
+
+### COOKY · BTS · ARMY
+
+My pink bunny avatar is **COOKY**, the BT21 character associated with **Jung Kook**.
+
+I'm also a proud **ARMY** 💜
 
 <i>Code, AI, music, and a pink bunny.</i>
 
