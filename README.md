@@ -163,11 +163,11 @@ what matters more to me is understanding the problem and building the solution.
 
 ### 🛠️ Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="48" />
 
 <br><br>
 
-<sub>Git · GitHub · VS Code</sub>
+<sub>Git · GitHub · VS Code · PyCharm</sub>
 
 <br><br>
 
@@ -251,16 +251,6 @@ what matters more to me is understanding the problem and building the solution.
 <br>
 
 > Python is my main programming language. I use AI-assisted development to explore unfamiliar technologies, work across different stacks, learn faster, and turn ideas into working products.
-
-### ❤️ Team GPT
-
-<b>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</b>
-
-<br>
-
-<sub>Sorry Claude, nothing personal.</sub>
-
-</div>
 
 ---
 
