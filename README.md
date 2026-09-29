@@ -2,7 +2,10 @@
 
 # Hi, I'm Yuyang 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+AI+Agents+%7C+Building+with+AI;Turning+ideas+into+working+products;Still+learning.+Still+building." alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+AI+Agents+%7C+Building+with+AI;Turning+ideas+into+working+products;Still+learning.+Still+building."
+  alt="Typing SVG"
+/>
 
 <br>
 
@@ -40,10 +43,16 @@ I enjoy turning ideas into working products — even when that means learning ne
 - 🛠️ Building practical tools with **AI-assisted development**
 - 🌱 Learning software engineering through real projects
 - 💡 Interested in turning interesting ideas into usable products
+- 💜 Proud **ARMY**
+- 🐰 The pink bunny in my profile picture is **COOKY** from BT21 — Jung Kook's character.
 
 ---
 
 ## 🚀 Featured Projects
+
+<p align="center">
+🚧 Both projects are actively maintained and still evolving.
+</p>
 
 <table>
 <tr>
@@ -53,25 +62,29 @@ I enjoy turning ideas into working products — even when that means learning ne
 <h3 align="center">📈 StockPilot</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Status-Active_Development-2EA44F?style=flat-square" />
+</p>
+
+<p align="center">
 An experimental AI-powered investment analysis and portfolio management platform.
 </p>
 
-**Current Focus**
+<b>Current Focus</b>
 
-- 🤖 AI Agent workflows
-- 💼 Portfolio management
-- 📊 Market data integration
-- 📰 News & sentiment analysis
-- ⚡ System performance optimization
+<br><br>
+
+🤖 AI Agent workflows  
+💼 Portfolio management  
+📊 Market data integration  
+📰 News & sentiment analysis  
+⚡ System performance optimization  
 
 <br>
 
 <p align="center">
-
 <a href="https://github.com/Tosidxyy/StockPilot">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
 
 </td>
@@ -81,25 +94,29 @@ An experimental AI-powered investment analysis and portfolio management platform
 <h3 align="center">🧩 CodeVault</h3>
 
 <p align="center">
-A personal coding review and note-taking tool for making LeetCode practice more organized and effective.
+<img src="https://img.shields.io/badge/Status-Active_Development-2EA44F?style=flat-square" />
 </p>
 
-**Features**
+<p align="center">
+A personal coding review and note-taking tool designed to make LeetCode practice more organized and effective.
+</p>
 
-- 📝 Problem notes
-- 🔁 Mistake & review management
-- 🖼️ Image support
-- 🧩 Browser extension integration
-- 💾 Local-first workflow
+<b>Features</b>
+
+<br><br>
+
+📝 Problem notes  
+🔁 Mistake & review management  
+🖼️ Image support  
+🧩 Browser extension integration  
+💾 Local-first workflow  
 
 <br>
 
 <p align="center">
-
 <a href="https://github.com/Tosidxyy/CodeVault">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
 
 </td>
@@ -136,12 +153,15 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 <div align="center">
 
 <table>
-
 <tr>
 
 <td align="center" width="180">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="58" height="58" />
+<img
+  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
+  width="60"
+  height="60"
+/>
 
 <br><br>
 
@@ -149,13 +169,17 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 
 <br>
 
-<sub>Daily Driver</sub>
+<sub>Daily Driver ❤️</sub>
 
 </td>
 
 <td align="center" width="180">
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="58" height="58" />
+<img
+  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
+  width="60"
+  height="60"
+/>
 
 <br><br>
 
@@ -169,7 +193,12 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 
 <td align="center" width="180">
 
-<img src="assets/doubao.png" width="58" height="58" alt="Doubao" />
+<img
+  src="assets/doubao.png"
+  width="60"
+  height="60"
+  alt="Doubao"
+/>
 
 <br><br>
 
@@ -182,7 +211,6 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 </td>
 
 </tr>
-
 </table>
 
 <br>
@@ -222,6 +250,24 @@ I'm currently learning more about:
 
 ---
 
+## 💜 A Little More About Me
+
+<div align="center">
+
+### 🐰 ARMY & COOKY
+
+My pink bunny avatar is **COOKY**, a BT21 character created by **Jung Kook**.
+
+I'm also a proud **ARMY** 💜
+
+<br>
+
+<sub>Code, AI, music, and a pink bunny.</sub>
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -253,5 +299,9 @@ I'm currently learning more about:
 ### ✨ Building useful things with Python & AI.
 
 <sub>Still learning · Still experimenting · Still building</sub>
+
+<br><br>
+
+💜
 
 </div>
