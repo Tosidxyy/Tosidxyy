@@ -2,16 +2,24 @@
 
 # Hi, I'm Yuyang 👋
 
-### Python · AI Agents · Building with AI
-
-Master's student in Computer Science  
-at **China University of Geosciences (Wuhan)**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+AI+Agents+%7C+Building+with+AI;Turning+ideas+into+working+products;Still+learning.+Still+building." alt="Typing SVG" />
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+🎓 Master's Student in Computer Science  
+**China University of Geosciences (Wuhan)**
+
+<br>
+
+<a href="mailto:xyy695627012@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://x.com/xiyyng44054657">
+  <img src="https://img.shields.io/badge/X-@xiyyng44054657-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+<a href="https://github.com/Tosidxyy">
+  <img src="https://img.shields.io/badge/GitHub-Tosidxyy-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -21,51 +29,71 @@ at **China University of Geosciences (Wuhan)**
 
 I'm a second-year Master's student in Computer Science at **China University of Geosciences (Wuhan)**.
 
-I mainly work with **Python** and enjoy exploring AI agents, LLM applications, and AI-assisted software development.
+I mainly work with **Python** and I'm interested in **AI Agents, LLM applications, and AI-assisted software development**.
 
-I like turning ideas into working products — even when that means learning new technologies along the way.
+I enjoy turning ideas into working products — even when that means learning new technologies along the way.
 
 - 🐍 Mainly coding in **Python**
 - 🤖 Exploring **AI Agents & LLM Applications**
 - 🛠️ Building practical tools with **AI-assisted development**
-- 📚 Currently improving my software engineering skills
-- 💡 Interested in turning interesting ideas into real products
+- 🌱 Learning software engineering through real projects
+- 💡 Interested in turning interesting ideas into usable products
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 AI Investment Platform
+<h3 align="center">📈 StockPilot</h3>
 
-An experimental AI-powered investment and portfolio management system.
+<p align="center">
+An experimental AI-powered investment analysis and portfolio management platform.
+</p>
 
-**Exploring**
+**Current Focus**
 
-- AI Agent workflows
-- Portfolio management
-- Market data integration
-- News & sentiment analysis
-- Performance optimization
+- 🤖 AI Agent workflows
+- 💼 Portfolio management
+- 📊 Market data integration
+- 📰 News & sentiment analysis
+- ⚡ System performance optimization
+
+<br>
+
+<p align="center">
+<a href="https://github.com/Tosidxyy/StockPilot">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧩 LeetCode Review
+<h3 align="center">🧩 CodeVault</h3>
 
-A personal coding review and note-taking tool designed to make LeetCode practice more organized.
+<p align="center">
+A personal coding review and note-taking tool for making LeetCode practice more organized and effective.
+</p>
 
 **Features**
 
-- Problem collection
-- Mistake management
-- Personal notes
-- Image support
-- Browser extension integration
+- 📝 Problem notes
+- 🔁 Mistake & review management
+- 🖼️ Image support
+- 🧩 Browser extension
+- 💾 Local-first workflow
+
+<br>
+
+<p align="center">
+<a href="https://github.com/Tosidxyy/CodeVault">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
@@ -73,45 +101,48 @@ A personal coding review and note-taking tool designed to make LeetCode practice
 
 ---
 
-## 🧰 Tools & Interests
+## 🧰 What I Use
 
-### Language
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Main Language
 
-### Currently Exploring
+<img src="https://skillicons.dev/icons?i=python" height="48" />
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=flat-square&logo=fastapi&logoColor=white)
+<br><br>
 
-### Development Workflow
+### Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![AI Assisted](https://img.shields.io/badge/AI--assisted_Development-000000?style=flat-square)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+
+</div>
+
+<br>
+
+> I use AI-assisted development tools to explore technologies beyond my current core stack and turn ideas into working prototypes.
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 Currently Exploring
 
-```text
-AI Agents            █████████░
-Python               ████████░░
-LLM Applications     ███████░░░
-Backend Development  █████░░░░░
-Web Development      ████░░░░░░
-```
+<div align="center">
 
-I'm currently exploring:
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- Agent architectures
-- LLM evaluation
-- Context engineering
-- Backend development
-- System performance optimization
-- Financial AI applications
+</div>
+
+<br>
+
+I'm currently learning more about:
+
+- 🤖 AI Agent architectures
+- 🧠 LLM applications & evaluation
+- 🗂️ Context engineering
+- ⚙️ Backend development
+- ⚡ System performance optimization
+- 📈 Financial AI applications
 
 ---
 
@@ -133,14 +164,18 @@ I'm currently exploring:
 
 <img src="https://img.shields.io/badge/QQ-2903503424-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
 
+<br><br>
+
+**Feel free to reach out — I'm always happy to connect and exchange ideas.**
+
 </div>
 
 ---
 
 <div align="center">
 
-### Building useful things with Python & AI.
+### ✨ Building useful things with Python & AI.
 
-<sub>Still learning. Still building.</sub>
+<sub>Still learning · Still experimenting · Still building</sub>
 
 </div>
