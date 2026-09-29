@@ -156,104 +156,133 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 ## 🧰 My Toolkit
 
-<div align="center">
+<table>
+<tr>
 
-### 💻 Coding
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=python" height="48" />
-
-<br>
-
-<b>Python</b>
-
-<br>
-
-<i>
-With AI-assisted development, programming languages are becoming less of a barrier —
-what matters more to me is understanding the problem and building the solution.
-</i>
+<b>💻 Coding</b>
 
 <br><br>
 
-### 🗄️ Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=python" height="44" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="44" />
+<br>
+
+<sub>Python</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<b>🗄️ Databases & Infrastructure</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="42" />
 
 <br>
 
 <sub>PostgreSQL · MySQL · Docker</sub>
 
+</td>
+
+<td align="center" width="33%">
+
+<b>🛠️ Development</b>
+
 <br><br>
 
-### 🛠️ Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="44" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="42" />
 
 <br>
 
 <sub>Git · GitHub · VS Code · PyCharm</sub>
 
-<br><br>
-
-### 🤖 AI Tools
-
-<table>
-<tr>
-
-<td align="center" width="160">
-<img
-  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-  width="52"
-  height="52"
-/>
-<br>
-<b>ChatGPT</b>
-<br>
-<sub>Daily Driver ❤️</sub>
-</td>
-
-<td align="center" width="160">
-<img
-  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
-  width="52"
-  height="52"
-/>
-<br>
-<b>DeepSeek</b>
-<br>
-<sub>AI Assistant</sub>
-</td>
-
-<td align="center" width="160">
-<img
-  src="assets/doubao.png"
-  width="52"
-  height="52"
-  alt="Doubao"
-/>
-<br>
-<b>Doubao</b>
-<br>
-<sub>AI Assistant</sub>
 </td>
 
 </tr>
 </table>
 
-<b>❤️ Team GPT</b>
+<p align="center">
+<i>
+With AI-assisted development, programming languages are becoming less of a barrier —
+what matters more to me is understanding the problem and building the solution.
+</i>
+</p>
+
+<p align="center">
+<b>🤖 AI Tools</b>
+</p>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img
+  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
+  width="48"
+  height="48"
+/>
 
 <br>
 
-<i>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</i>
+<b>ChatGPT</b>
 
 <br>
 
+<sub>Daily Driver ❤️</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img
+  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
+  width="48"
+  height="48"
+/>
+
+<br>
+
+<b>DeepSeek</b>
+
+<br>
+
+<sub>AI Assistant</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img
+  src="assets/doubao.png"
+  width="48"
+  height="48"
+  alt="Doubao"
+/>
+
+<br>
+
+<b>Doubao</b>
+
+<br>
+
+<sub>AI Assistant</sub>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+<b>❤️ Team GPT</b><br>
+<i>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</i><br>
 <sub>Sorry Claude, nothing personal.</sub>
-
-</div>
+</p>
 
 > Python is my main programming language. I use AI-assisted development to explore unfamiliar technologies, work across different stacks, learn faster, and turn ideas into working products.
-
 ---
 
 ## 🔭 Currently Exploring
