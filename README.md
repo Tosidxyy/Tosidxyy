@@ -262,6 +262,10 @@ what matters more to me is understanding the problem and building the solution.
 
 <img src="https://img.shields.io/badge/LLM_Applications-8B5CF6?style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LangGraph-Learning-4B5563?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
@@ -271,6 +275,7 @@ what matters more to me is understanding the problem and building the solution.
 I'm currently exploring:
 
 - 🤖 AI Agent architectures and workflows
+- 🔗 LangChain & LangGraph
 - 🧠 LLM applications & evaluation
 - 🗂️ Context engineering
 - ⚙️ Backend development
