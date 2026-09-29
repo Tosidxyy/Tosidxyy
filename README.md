@@ -130,7 +130,7 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 ---
 
-## 🧰 What I Use
+## 🧰 My Toolkit
 
 <div align="center">
 
@@ -141,6 +141,23 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 <br>
 
 <b>Python</b>
+
+<br><br>
+
+<i>
+With AI-assisted development, programming languages are becoming less of a barrier —
+what matters more to me is understanding the problem and building the solution.
+</i>
+
+<br><br>
+
+### 🗄️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="48" />
+
+<br><br>
+
+<sub>PostgreSQL · MySQL · Docker</sub>
 
 <br><br>
 
@@ -233,7 +250,7 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 <br>
 
-> Python is my main programming language. I use AI-assisted development tools to explore unfamiliar technologies, learn faster, and turn ideas into working products.
+> Python is my main programming language. I use AI-assisted development to explore unfamiliar technologies, work across different stacks, learn faster, and turn ideas into working products.
 
 ### ❤️ Team GPT
 
