@@ -1,8 +1,8 @@
 # Hi, I'm Yuyang 👋
 
-I'm a Python developer interested in building practical AI-powered tools and applications.
+I'm a second-year Master's student in Computer Science at **China University of Geosciences (Wuhan)**.
 
-I enjoy turning ideas into working prototypes with the help of modern AI coding tools.
+I'm interested in Python, AI agents, and building practical AI-powered applications. I enjoy turning ideas into working prototypes with the help of modern AI coding tools.
 
 ## 🚀 What I'm Building
 
