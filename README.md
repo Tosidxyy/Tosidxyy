@@ -14,9 +14,11 @@
 <a href="mailto:xyy695627012@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://x.com/xiyyng44054657">
   <img src="https://img.shields.io/badge/X-@xiyyng44054657-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
+
 <a href="https://github.com/Tosidxyy">
   <img src="https://img.shields.io/badge/GitHub-Tosidxyy-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
@@ -45,6 +47,7 @@ I enjoy turning ideas into working products — even when that means learning ne
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">📈 StockPilot</h3>
@@ -64,9 +67,11 @@ An experimental AI-powered investment analysis and portfolio management platform
 <br>
 
 <p align="center">
+
 <a href="https://github.com/Tosidxyy/StockPilot">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 </p>
 
 </td>
@@ -84,18 +89,21 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 - 📝 Problem notes
 - 🔁 Mistake & review management
 - 🖼️ Image support
-- 🧩 Browser extension
+- 🧩 Browser extension integration
 - 💾 Local-first workflow
 
 <br>
 
 <p align="center">
+
 <a href="https://github.com/Tosidxyy/CodeVault">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -107,7 +115,7 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 
 ### Main Language
 
-<img src="https://skillicons.dev/icons?i=python" height="48" />
+<img src="https://skillicons.dev/icons?i=python" height="52" />
 
 <br><br>
 
@@ -123,45 +131,65 @@ A personal coding review and note-taking tool for making LeetCode practice more 
 
 ---
 
-🤖 My AI Toolbox
+## 🤖 My AI Toolbox
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="150">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="55" height="55" />
+<td align="center" width="180">
+
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="58" height="58" />
+
 <br><br>
+
 <b>ChatGPT</b>
+
 <br>
+
 <sub>Daily Driver</sub>
+
 </td>
 
-<td align="center" width="150">
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="55" height="55" />
+<td align="center" width="180">
+
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="58" height="58" />
+
 <br><br>
+
 <b>DeepSeek</b>
+
 <br>
+
 <sub>AI Assistant</sub>
+
 </td>
 
-<td align="center" width="150">
-  <img src="./assets/doubao.png" width="60" height="60" />
-  <br><br>
-  <b>Doubao</b>
-  <br>
-  <sub>AI Assistant</sub>
+<td align="center" width="180">
+
+<img src="./assets/doubao.png" width="58" height="58" />
+
+<br><br>
+
+<b>Doubao</b>
+
+<br>
+
+<sub>AI Assistant</sub>
+
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
-❤️ Team GPT
+### ❤️ Team GPT
 
-ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪
+**ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪**
 
 <sub>Sorry Claude, nothing personal.</sub>
 
@@ -173,9 +201,11 @@ ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪
 
 <div align="center">
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Apps](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
