@@ -160,13 +160,13 @@ A personal LeetCode review and note-taking tool designed to make coding practice
 
 ### 💻 Coding
 
-<img src="https://skillicons.dev/icons?i=python" height="52" />
+<img src="https://skillicons.dev/icons?i=python" height="48" />
 
 <br>
 
 <b>Python</b>
 
-<br><br>
+<br>
 
 <i>
 With AI-assisted development, programming languages are becoming less of a barrier —
@@ -177,9 +177,9 @@ what matters more to me is understanding the problem and building the solution.
 
 ### 🗄️ Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" height="44" />
 
-<br><br>
+<br>
 
 <sub>PostgreSQL · MySQL · Docker</sub>
 
@@ -187,9 +187,9 @@ what matters more to me is understanding the problem and building the solution.
 
 ### 🛠️ Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="44" />
 
-<br><br>
+<br>
 
 <sub>Git · GitHub · VS Code · PyCharm</sub>
 
@@ -200,69 +200,49 @@ what matters more to me is understanding the problem and building the solution.
 <table>
 <tr>
 
-<td align="center" width="180">
-
+<td align="center" width="160">
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-  width="58"
-  height="58"
+  width="52"
+  height="52"
 />
-
-<br><br>
-
-<b>ChatGPT</b>
-
 <br>
-
+<b>ChatGPT</b>
+<br>
 <sub>Daily Driver ❤️</sub>
-
 </td>
 
-<td align="center" width="180">
-
+<td align="center" width="160">
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg"
-  width="58"
-  height="58"
+  width="52"
+  height="52"
 />
-
-<br><br>
-
-<b>DeepSeek</b>
-
 <br>
-
+<b>DeepSeek</b>
+<br>
 <sub>AI Assistant</sub>
-
 </td>
 
-<td align="center" width="180">
-
+<td align="center" width="160">
 <img
   src="assets/doubao.png"
-  width="58"
-  height="58"
+  width="52"
+  height="52"
   alt="Doubao"
 />
-
-<br><br>
-
-<b>Doubao</b>
-
 <br>
-
+<b>Doubao</b>
+<br>
 <sub>AI Assistant</sub>
-
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <b>❤️ Team GPT</b>
 
-<br><br>
+<br>
 
 <i>ChatGPT is my daily driver — definitely Team GPT, not Team Claude 🤪</i>
 
@@ -271,8 +251,6 @@ what matters more to me is understanding the problem and building the solution.
 <sub>Sorry Claude, nothing personal.</sub>
 
 </div>
-
-<br>
 
 > Python is my main programming language. I use AI-assisted development to explore unfamiliar technologies, work across different stacks, learn faster, and turn ideas into working products.
 
