@@ -1,56 +1,57 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Yuyang Banner" />
+# Hi, I'm Yuyang 👋
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+%7C+AI+Agents+%7C+Building+with+AI;Turning+ideas+into+working+products;Still+learning.+Still+building."
+  alt="Typing SVG"
+/>
 
 <br>
 
-### Yuyang Xia
-
-🎓 **中国地质大学（武汉）｜计算机科学硕士研究生**  
-🐍 **Python · AI Agents · AI-assisted Development**
+🎓 Master's Student in Computer Science  
+**China University of Geosciences (Wuhan)**
 
 <br>
+
+<a href="mailto:xyy695627012@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://x.com/xiyyng44054657">
+  <img src="https://img.shields.io/badge/X-@xiyyng44054657-181717?style=flat-square&logo=x&logoColor=white" />
+</a>
 
 <a href="https://github.com/Tosidxyy">
   <img src="https://img.shields.io/badge/GitHub-Tosidxyy-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://x.com/xiyyng44054657">
-  <img src="https://img.shields.io/badge/X-@xiyyng44054657-181717?style=flat-square&logo=x&logoColor=white" />
-</a>
-<a href="mailto:xyy695627012@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<i>Turning ideas into working products with Python and AI.</i>
 
 </div>
 
 ---
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-我是 **中国地质大学（武汉）** 计算机科学专业的二年级硕士研究生。
+I'm a second-year Master's student in Computer Science at **China University of Geosciences (Wuhan)**.
 
-我主要使用 **Python** 进行开发，对 **AI Agents、LLM 应用** 和 **AI 辅助软件开发** 很感兴趣。
+I mainly work with **Python** and I'm interested in **AI Agents, LLM applications, and AI-assisted software development**.
 
-我喜欢把想法逐渐变成真正可以使用的产品，也愿意在这个过程中不断学习新的技术和工具。
+I enjoy turning ideas into working products — even when that means learning new technologies along the way.
 
-- 🐍 主要使用 **Python**
-- 🤖 探索 **AI Agents 与 LLM 应用**
-- 🛠️ 使用 AI 辅助开发构建实际项目
-- 🌱 通过真实项目学习软件工程
-- 💡 喜欢把有趣的想法转化成可用产品
+- 🐍 Mainly coding in **Python**
+- 🤖 Exploring **AI Agents & LLM Applications**
+- 🛠️ Building practical tools with **AI-assisted development**
+- 🌱 Learning software engineering through real-world projects
+- 💡 Interested in turning interesting ideas into usable products
 - 💜 Proud **ARMY**
-- 🐰 我的粉色兔子头像是 BT21 的 **COOKY**
+- 🐰 My pink bunny avatar is **COOKY** from BT21
 
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-🚧 两个项目目前都在持续维护和开发中。
+🚧 Both projects are actively maintained and still evolving.
 </p>
 
 <table>
@@ -65,25 +66,27 @@
 </p>
 
 <p align="center">
-一个正在开发中的 AI 投资分析与个人持仓管理平台。
+An AI-powered investment analysis and personal portfolio management platform.
 </p>
 
 <b>Current Focus</b>
 
 <br><br>
 
-🤖 AI Agent 工作流  
-💼 个人持仓与资产管理  
-📊 市场数据整合  
-📰 新闻与情绪分析  
-⚡ 并发、缓存与性能优化  
+🤖 AI Agent workflows  
+💼 Portfolio management  
+📊 Market data integration  
+📰 News & sentiment analysis  
+⚡ Concurrency, caching & performance optimization  
 
 <br><br>
 
 <p align="center">
+
 <a href="https://github.com/Tosidxyy/StockPilot">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 </p>
 
 </td>
@@ -97,25 +100,27 @@
 </p>
 
 <p align="center">
-一个用于 LeetCode 错题整理、笔记记录与复习的个人学习工具。
+A personal LeetCode review and note-taking tool designed to make coding practice more organized and effective.
 </p>
 
 <b>Features</b>
 
 <br><br>
 
-📝 题目笔记  
-🔁 错题与复习管理  
-🖼️ 图片与富文本记录  
-🧩 浏览器插件集成  
-💾 Local-first 工作流  
+📝 Problem notes  
+🔁 Mistake & review management  
+🖼️ Image and rich-note support  
+🧩 Browser extension integration  
+💾 Local-first workflow  
 
 <br><br>
 
 <p align="center">
+
 <a href="https://github.com/Tosidxyy/CodeVault">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 </p>
 
 </td>
@@ -143,7 +148,7 @@
 
 <br>
 
-> 我的核心编程语言是 Python，同时会借助 AI 辅助开发工具探索目前还不熟悉的技术，并将想法快速转化成可运行的原型。
+> Python is my main programming language. I also use AI-assisted development tools to explore technologies beyond my current core stack and turn ideas into working prototypes.
 
 ---
 
@@ -152,6 +157,7 @@
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="180">
@@ -210,6 +216,7 @@
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -240,14 +247,14 @@
 
 <br>
 
-目前主要在继续学习和探索：
+I'm currently exploring:
 
-- 🤖 AI Agent 架构与工作流
-- 🧠 LLM 应用与评估
-- 🗂️ Context Engineering
-- ⚙️ Backend Development
-- ⚡ 系统性能与工程优化
-- 📈 AI 在金融场景中的应用
+- 🤖 AI Agent architectures and workflows
+- 🧠 LLM applications & evaluation
+- 🗂️ Context engineering
+- ⚙️ Backend development
+- ⚡ System performance optimization
+- 📈 AI applications in finance
 
 ---
 
@@ -257,11 +264,9 @@
 
 ### 🐰 COOKY · BTS · ARMY
 
-我的 GitHub 头像是一只粉色兔子，它是 BT21 中由 **Jung Kook** 创作的角色：
+My pink bunny avatar is **COOKY**, a BT21 character created by **Jung Kook**.
 
-### **COOKY**
-
-同时，我也是一名 **ARMY** 💜
+I'm also a proud **ARMY** 💜
 
 <br>
 
